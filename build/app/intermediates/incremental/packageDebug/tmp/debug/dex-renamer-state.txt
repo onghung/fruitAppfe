@@ -1,0 +1,4 @@
+#Sun Jun 02 00:29:51 ICT 2024
+base.0=/Users/tronghung/AndroidStudioProjects/fruit_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
